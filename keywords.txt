@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For DevLab_IR
+#######################################
+
+DevLab_IR	KEYWORD1
+DevLab_IR_Frame	KEYWORD1
+
+begin	KEYWORD2
+beginRecovered	KEYWORD2
+readCarrier	KEYWORD2
+readStatus	KEYWORD2
+readRawFrame	KEYWORD2
+poll	KEYWORD2
+busReady	KEYWORD2
+isConnected	KEYWORD2
+address	KEYWORD2
+deviceInfo	KEYWORD2
+printInfo	KEYWORD2
+protocol	KEYWORD2
+bus	KEYWORD2
+
+DEVICE_ID	LITERAL1
+DEFAULT_ADDRESS	LITERAL1
+STATUS_NEW_FRAME	LITERAL1
+STATUS_REPEAT	LITERAL1
+STATUS_CHECK_OK	LITERAL1
+STATUS_CARRIER	LITERAL1
+STATUS_ERROR	LITERAL1
